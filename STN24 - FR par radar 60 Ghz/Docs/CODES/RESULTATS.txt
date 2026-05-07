@@ -1,0 +1,2364 @@
+Radar prêt
+Initialisation SX1262...
+LoRa prêt !
+
+Respiration rate: 15 rpm
+Heart rate: 86 bpm
+DATA,TIME,15,86
+Envoi LoRa : R:15,F:86#
+Transmission OK
+
+Respiration rate: 15 rpm
+Heart rate: 86 bpm
+DATA,TIME,15,86
+Envoi LoRa : R:15,F:86#
+Transmission OK
+
+Respiration rate: 16 rpm
+Heart rate: 84 bpm
+DATA,TIME,16,84
+Envoi LoRa : R:16,F:84#
+Transmission OK
+
+Respiration rate: 16 rpm
+Heart rate: 78 bpm
+DATA,TIME,16,78
+Envoi LoRa : R:16,F:78#
+Transmission OK
+
+Respiration rate: 16 rpm
+Heart rate: 72 bpm
+DATA,TIME,16,72
+Envoi LoRa : R:16,F:72#
+Transmission OK
+
+Respiration rate: 17 rpm
+Heart rate: 71 bpm
+DATA,TIME,17,71
+Envoi LoRa : R:17,F:71#
+Transmission OK
+
+Respiration rate: 18 rpm
+Heart rate: 71 bpm
+DATA,TIME,18,71
+Envoi LoRa : R:18,F:71#
+Transmission OK
+
+Respiration rate: 20 rpm
+Heart rate: 74 bpm
+DATA,TIME,20,74
+Envoi LoRa : R:20,F:74#
+Transmission OK
+
+CLEARDATA
+LABEL,Temps,Respiration (rpm),Frequence cardiaque (bpm)
+Début initialisation radar
+Radar initialisé
+Radar prêt
+Initialisation SX1262...
+LoRa prêt !
+
+Respiration rate: 15 rpm
+Heart rate: 86 bpm
+DATA,TIME,15,86
+Envoi LoRa : R:15,F:86#
+Transmission OK
+
+Respiration rate: 15 rpm
+Heart rate: 84 bpm
+DATA,TIME,15,84
+Envoi LoRa : R:15,F:84#
+Transmission OK
+
+Respiration rate: 16 rpm
+Heart rate: 78 bpm
+DATA,TIME,16,78
+Envoi LoRa : R:16,F:78#
+Transmission OK
+
+Respiration rate: 17 rpm
+Heart rate: 78 bpm
+DATA,TIME,17,78
+Envoi LoRa : R:17,F:78#
+Transmission OK
+
+Respiration rate: 18 rpm
+Heart rate: 78 bpm
+DATA,TIME,18,78
+Envoi LoRa : R:18,F:78#
+Transmission OK
+
+Respiration rate: 18 rpm
+Heart rate: 81 bpm
+DATA,TIME,18,81
+Envoi LoRa : R:18,F:81#
+Transmission OK
+
+Respiration rate: 20 rpm
+Heart rate: 84 bpm
+DATA,TIME,20,84
+Envoi LoRa : R:20,F:84#
+Transmission OK
+
+Respiration rate: 21 rpm
+Heart rate: 84 bpm
+DATA,TIME,21,84
+Envoi LoRa : R:21,F:84#
+Transmission OK
+
+Respiration rate: 22 rpm
+Heart rate: 87 bpm
+DATA,TIME,22,87
+Envoi LoRa : R:22,F:87#
+Transmission OK
+
+Respiration rate: 22 rpm
+Heart rate: 90 bpm
+DATA,TIME,22,90
+Envoi LoRa : R:22,F:90#
+Transmission OK
+
+Respiration rate: 23 rpm
+Heart rate: 93 bpm
+DATA,TIME,23,93
+Envoi LoRa : R:23,F:93#
+Transmission OK
+
+Respiration rate: 23 rpm
+Heart rate: 96 bpm
+DATA,TIME,23,96
+Envoi LoRa : R:23,F:96#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 99 bpm
+DATA,TIME,24,99
+Envoi LoRa : R:24,F:99#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 99 bpm
+DATA,TIME,24,99
+Envoi LoRa : R:24,F:99#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 100 bpm
+DATA,TIME,25,100
+Envoi LoRa : R:25,F:100#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 97 bpm
+DATA,TIME,25,97
+Envoi LoRa : R:25,F:97#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 94 bpm
+DATA,TIME,25,94
+Envoi LoRa : R:25,F:94#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 94 bpm
+DATA,TIME,26,94
+Envoi LoRa : R:26,F:94#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 92 bpm
+DATA,TIME,26,92
+Envoi LoRa : R:26,F:92#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 92 bpm
+DATA,TIME,26,92
+Envoi LoRa : R:26,F:92#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 92 bpm
+DATA,TIME,26,92
+Envoi LoRa : R:26,F:92#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 92 bpm
+DATA,TIME,26,92
+Envoi LoRa : R:26,F:92#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 92 bpm
+DATA,TIME,26,92
+Envoi LoRa : R:26,F:92#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 92 bpm
+DATA,TIME,25,92
+Envoi LoRa : R:25,F:92#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 92 bpm
+DATA,TIME,25,92
+Envoi LoRa : R:25,F:92#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 92 bpm
+DATA,TIME,26,92
+Envoi LoRa : R:26,F:92#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 92 bpm
+DATA,TIME,26,92
+Envoi LoRa : R:26,F:92#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 92 bpm
+DATA,TIME,26,92
+Envoi LoRa : R:26,F:92#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 92 bpm
+DATA,TIME,26,92
+Envoi LoRa : R:26,F:92#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 92 bpm
+DATA,TIME,26,92
+Envoi LoRa : R:26,F:92#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 92 bpm
+DATA,TIME,27,92
+Envoi LoRa : R:27,F:92#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 92 bpm
+DATA,TIME,27,92
+Envoi LoRa : R:27,F:92#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 91 bpm
+DATA,TIME,27,91
+Envoi LoRa : R:27,F:91#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 89 bpm
+DATA,TIME,27,89
+Envoi LoRa : R:27,F:89#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 88 bpm
+DATA,TIME,26,88
+Envoi LoRa : R:26,F:88#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 88 bpm
+DATA,TIME,26,88
+Envoi LoRa : R:26,F:88#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 88 bpm
+DATA,TIME,26,88
+Envoi LoRa : R:26,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 88 bpm
+DATA,TIME,26,88
+Envoi LoRa : R:26,F:88#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 88 bpm
+DATA,TIME,26,88
+Envoi LoRa : R:26,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 88 bpm
+DATA,TIME,26,88
+Envoi LoRa : R:26,F:88#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 88 bpm
+DATA,TIME,26,88
+Envoi LoRa : R:26,F:88#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 88 bpm
+DATA,TIME,26,88
+Envoi LoRa : R:26,F:88#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 88 bpm
+DATA,TIME,26,88
+Envoi LoRa : R:26,F:88#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 88 bpm
+DATA,TIME,26,88
+Envoi LoRa : R:26,F:88#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 88 bpm
+DATA,TIME,26,88
+Envoi LoRa : R:26,F:88#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 88 bpm
+DATA,TIME,26,88
+Envoi LoRa : R:26,F:88#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 88 bpm
+DATA,TIME,26,88
+Envoi LoRa : R:26,F:88#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 88 bpm
+DATA,TIME,26,88
+Envoi LoRa : R:26,F:88#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 88 bpm
+DATA,TIME,26,88
+Envoi LoRa : R:26,F:88#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 88 bpm
+DATA,TIME,26,88
+Envoi LoRa : R:26,F:88#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 88 bpm
+DATA,TIME,26,88
+Envoi LoRa : R:26,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 88 bpm
+DATA,TIME,27,88
+Envoi LoRa : R:27,F:88#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 88 bpm
+DATA,TIME,26,88
+Envoi LoRa : R:26,F:88#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 88 bpm
+DATA,TIME,26,88
+Envoi LoRa : R:26,F:88#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 88 bpm
+DATA,TIME,26,88
+Envoi LoRa : R:26,F:88#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 88 bpm
+DATA,TIME,26,88
+Envoi LoRa : R:26,F:88#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 88 bpm
+DATA,TIME,26,88
+Envoi LoRa : R:26,F:88#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 88 bpm
+DATA,TIME,26,88
+Envoi LoRa : R:26,F:88#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 88 bpm
+DATA,TIME,26,88
+Envoi LoRa : R:26,F:88#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 88 bpm
+DATA,TIME,26,88
+Envoi LoRa : R:26,F:88#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 88 bpm
+DATA,TIME,24,88
+Envoi LoRa : R:24,F:88#
+Transmission OK
+
+Respiration rate: 21 rpm
+Heart rate: 88 bpm
+DATA,TIME,21,88
+Envoi LoRa : R:21,F:88#
+Transmission OK
+
+Respiration rate: 20 rpm
+Heart rate: 82 bpm
+DATA,TIME,20,82
+Envoi LoRa : R:20,F:82#
+Transmission OK
+
+Respiration rate: 21 rpm
+Heart rate: 82 bpm
+DATA,TIME,21,82
+Envoi LoRa : R:21,F:82#
+Transmission OK
+
+Respiration rate: 22 rpm
+Heart rate: 76 bpm
+DATA,TIME,22,76
+Envoi LoRa : R:22,F:76#
+Transmission OK
+
+Respiration rate: 22 rpm
+Heart rate: 79 bpm
+DATA,TIME,22,79
+Envoi LoRa : R:22,F:79#
+Transmission OK
+
+Respiration rate: 18 rpm
+Heart rate: 75 bpm
+DATA,TIME,18,75
+Envoi LoRa : R:18,F:75#
+Transmission OK
+
+Respiration rate: 18 rpm
+Heart rate: 75 bpm
+DATA,TIME,18,75
+Envoi LoRa : R:18,F:75#
+Transmission OK
+
+Respiration rate: 18 rpm
+Heart rate: 72 bpm
+DATA,TIME,18,72
+Envoi LoRa : R:18,F:72#
+Transmission OK
+
+Respiration rate: 18 rpm
+Heart rate: 69 bpm
+DATA,TIME,18,69
+Envoi LoRa : R:18,F:69#
+Transmission OK
+
+Respiration rate: 18 rpm
+Heart rate: 68 bpm
+DATA,TIME,18,68
+Envoi LoRa : R:18,F:68#
+Transmission OK
+
+Respiration rate: 19 rpm
+Heart rate: 68 bpm
+DATA,TIME,19,68
+Envoi LoRa : R:19,F:68#
+Transmission OK
+
+Respiration rate: 20 rpm
+Heart rate: 71 bpm
+DATA,TIME,20,71
+Envoi LoRa : R:20,F:71#
+Transmission OK
+
+Respiration rate: 20 rpm
+Heart rate: 74 bpm
+DATA,TIME,20,74
+Envoi LoRa : R:20,F:74#
+Transmission OK
+
+Respiration rate: 21 rpm
+Heart rate: 77 bpm
+DATA,TIME,21,77
+Envoi LoRa : R:21,F:77#
+Transmission OK
+
+Respiration rate: 21 rpm
+Heart rate: 80 bpm
+DATA,TIME,21,80
+Envoi LoRa : R:21,F:80#
+Transmission OK
+
+Respiration rate: 22 rpm
+Heart rate: 82 bpm
+DATA,TIME,22,82
+Envoi LoRa : R:22,F:82#
+Transmission OK
+
+Respiration rate: 21 rpm
+Heart rate: 82 bpm
+DATA,TIME,21,82
+Envoi LoRa : R:21,F:82#
+Transmission OK
+
+Respiration rate: 21 rpm
+Heart rate: 82 bpm
+DATA,TIME,21,82
+Envoi LoRa : R:21,F:82#
+Transmission OK
+
+Respiration rate: 22 rpm
+Heart rate: 82 bpm
+DATA,TIME,22,82
+Envoi LoRa : R:22,F:82#
+Transmission OK
+
+Respiration rate: 22 rpm
+Heart rate: 82 bpm
+DATA,TIME,22,82
+Envoi LoRa : R:22,F:82#
+Transmission OK
+
+Respiration rate: 23 rpm
+Heart rate: 82 bpm
+DATA,TIME,23,82
+Envoi LoRa : R:23,F:82#
+Transmission OK
+
+Respiration rate: 23 rpm
+Heart rate: 82 bpm
+DATA,TIME,23,82
+Envoi LoRa : R:23,F:82#
+Transmission OK
+
+Respiration rate: 23 rpm
+Heart rate: 82 bpm
+DATA,TIME,23,82
+Envoi LoRa : R:23,F:82#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 82 bpm
+DATA,TIME,24,82
+Envoi LoRa : R:24,F:82#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 82 bpm
+DATA,TIME,24,82
+Envoi LoRa : R:24,F:82#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 82 bpm
+DATA,TIME,24,82
+Envoi LoRa : R:24,F:82#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 82 bpm
+DATA,TIME,24,82
+Envoi LoRa : R:24,F:82#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 82 bpm
+DATA,TIME,24,82
+Envoi LoRa : R:24,F:82#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 82 bpm
+DATA,TIME,25,82
+Envoi LoRa : R:25,F:82#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 82 bpm
+DATA,TIME,25,82
+Envoi LoRa : R:25,F:82#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 82 bpm
+DATA,TIME,25,82
+Envoi LoRa : R:25,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 82 bpm
+DATA,TIME,27,82
+Envoi LoRa : R:27,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 82 bpm
+DATA,TIME,25,82
+Envoi LoRa : R:25,F:82#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 82 bpm
+DATA,TIME,25,82
+Envoi LoRa : R:25,F:82#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 82 bpm
+DATA,TIME,25,82
+Envoi LoRa : R:25,F:82#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 83 bpm
+DATA,TIME,24,83
+Envoi LoRa : R:24,F:83#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 83 bpm
+DATA,TIME,24,83
+Envoi LoRa : R:24,F:83#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 83 bpm
+DATA,TIME,24,83
+Envoi LoRa : R:24,F:83#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 83 bpm
+DATA,TIME,24,83
+Envoi LoRa : R:24,F:83#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 83 bpm
+DATA,TIME,24,83
+Envoi LoRa : R:24,F:83#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 83 bpm
+DATA,TIME,24,83
+Envoi LoRa : R:24,F:83#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 83 bpm
+DATA,TIME,24,83
+Envoi LoRa : R:24,F:83#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 83 bpm
+DATA,TIME,24,83
+Envoi LoRa : R:24,F:83#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 83 bpm
+DATA,TIME,25,83
+Envoi LoRa : R:25,F:83#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 83 bpm
+DATA,TIME,25,83
+Envoi LoRa : R:25,F:83#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 83 bpm
+DATA,TIME,25,83
+Envoi LoRa : R:25,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 83 bpm
+DATA,TIME,25,83
+Envoi LoRa : R:25,F:83#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 83 bpm
+DATA,TIME,25,83
+Envoi LoRa : R:25,F:83#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 83 bpm
+DATA,TIME,25,83
+Envoi LoRa : R:25,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 83 bpm
+DATA,TIME,25,83
+Envoi LoRa : R:25,F:83#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 83 bpm
+DATA,TIME,25,83
+Envoi LoRa : R:25,F:83#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 83 bpm
+DATA,TIME,24,83
+Envoi LoRa : R:24,F:83#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 83 bpm
+DATA,TIME,24,83
+Envoi LoRa : R:24,F:83#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 83 bpm
+DATA,TIME,24,83
+Envoi LoRa : R:24,F:83#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 83 bpm
+DATA,TIME,24,83
+Envoi LoRa : R:24,F:83#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 83 bpm
+DATA,TIME,24,83
+Envoi LoRa : R:24,F:83#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 83 bpm
+DATA,TIME,24,83
+Envoi LoRa : R:24,F:83#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 83 bpm
+DATA,TIME,24,83
+Envoi LoRa : R:24,F:83#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 83 bpm
+DATA,TIME,24,83
+Envoi LoRa : R:24,F:83#
+Transmission OK
+
+Respiration rate: 23 rpm
+Heart rate: 83 bpm
+DATA,TIME,23,83
+Envoi LoRa : R:23,F:83#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 83 bpm
+DATA,TIME,24,83
+Envoi LoRa : R:24,F:83#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 83 bpm
+DATA,TIME,24,83
+Envoi LoRa : R:24,F:83#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 83 bpm
+DATA,TIME,24,83
+Envoi LoRa : R:24,F:83#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 83 bpm
+DATA,TIME,24,83
+Envoi LoRa : R:24,F:83#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 83 bpm
+DATA,TIME,25,83
+Envoi LoRa : R:25,F:83#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 83 bpm
+DATA,TIME,25,83
+Envoi LoRa : R:25,F:83#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 83 bpm
+DATA,TIME,25,83
+Envoi LoRa : R:25,F:83#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 83 bpm
+DATA,TIME,25,83
+Envoi LoRa : R:25,F:83#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 83 bpm
+DATA,TIME,25,83
+Envoi LoRa : R:25,F:83#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 83 bpm
+DATA,TIME,25,83
+Envoi LoRa : R:25,F:83#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 83 bpm
+DATA,TIME,25,83
+Envoi LoRa : R:25,F:83#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 83 bpm
+DATA,TIME,25,83
+Envoi LoRa : R:25,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 22 rpm
+Heart rate: 83 bpm
+DATA,TIME,22,83
+Envoi LoRa : R:22,F:83#
+Transmission OK
+
+Respiration rate: 19 rpm
+Heart rate: 83 bpm
+DATA,TIME,19,83
+Envoi LoRa : R:19,F:83#
+Transmission OK
+
+Respiration rate: 18 rpm
+Heart rate: 83 bpm
+DATA,TIME,18,83
+Envoi LoRa : R:18,F:83#
+Transmission OK
+
+Respiration rate: 16 rpm
+Heart rate: 83 bpm
+DATA,TIME,16,83
+Envoi LoRa : R:16,F:83#
+Transmission OK
+
+Respiration rate: 16 rpm
+Heart rate: 83 bpm
+DATA,TIME,16,83
+Envoi LoRa : R:16,F:83#
+Transmission OK
+
+Respiration rate: 18 rpm
+Heart rate: 83 bpm
+DATA,TIME,18,83
+Envoi LoRa : R:18,F:83#
+Transmission OK
+
+Respiration rate: 19 rpm
+Heart rate: 83 bpm
+DATA,TIME,19,83
+Envoi LoRa : R:19,F:83#
+Transmission OK
+
+Respiration rate: 19 rpm
+Heart rate: 83 bpm
+DATA,TIME,19,83
+Envoi LoRa : R:19,F:83#
+Transmission OK
+
+Respiration rate: 19 rpm
+Heart rate: 83 bpm
+DATA,TIME,19,83
+Envoi LoRa : R:19,F:83#
+Transmission OK
+
+Respiration rate: 20 rpm
+Heart rate: 83 bpm
+DATA,TIME,20,83
+Envoi LoRa : R:20,F:83#
+Transmission OK
+
+Respiration rate: 18 rpm
+Heart rate: 83 bpm
+DATA,TIME,18,83
+Envoi LoRa : R:18,F:83#
+Transmission OK
+
+Respiration rate: 17 rpm
+Heart rate: 83 bpm
+DATA,TIME,17,83
+Envoi LoRa : R:17,F:83#
+Transmission OK
+
+Respiration rate: 16 rpm
+Heart rate: 83 bpm
+DATA,TIME,16,83
+Envoi LoRa : R:16,F:83#
+Transmission OK
+
+Respiration rate: 15 rpm
+Heart rate: 83 bpm
+DATA,TIME,15,83
+Envoi LoRa : R:15,F:83#
+Transmission OK
+
+Respiration rate: 16 rpm
+Heart rate: 83 bpm
+DATA,TIME,16,83
+Envoi LoRa : R:16,F:83#
+Transmission OK
+
+Respiration rate: 17 rpm
+Heart rate: 83 bpm
+DATA,TIME,17,83
+Envoi LoRa : R:17,F:83#
+Transmission OK
+
+Respiration rate: 18 rpm
+Heart rate: 83 bpm
+DATA,TIME,18,83
+Envoi LoRa : R:18,F:83#
+Transmission OK
+
+Respiration rate: 20 rpm
+Heart rate: 83 bpm
+DATA,TIME,20,83
+Envoi LoRa : R:20,F:83#
+Transmission OK
+
+Respiration rate: 21 rpm
+Heart rate: 83 bpm
+DATA,TIME,21,83
+Envoi LoRa : R:21,F:83#
+Transmission OK
+
+Respiration rate: 22 rpm
+Heart rate: 83 bpm
+DATA,TIME,22,83
+Envoi LoRa : R:22,F:83#
+Transmission OK
+
+Respiration rate: 22 rpm
+Heart rate: 83 bpm
+DATA,TIME,22,83
+Envoi LoRa : R:22,F:83#
+Transmission OK
+
+Respiration rate: 23 rpm
+Heart rate: 83 bpm
+DATA,TIME,23,83
+Envoi LoRa : R:23,F:83#
+Transmission OK
+
+Respiration rate: 23 rpm
+Heart rate: 83 bpm
+DATA,TIME,23,83
+Envoi LoRa : R:23,F:83#
+Transmission OK
+
+Respiration rate: 23 rpm
+Heart rate: 83 bpm
+DATA,TIME,23,83
+Envoi LoRa : R:23,F:83#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 83 bpm
+DATA,TIME,24,83
+Envoi LoRa : R:24,F:83#
+Transmission OK
+
+Respiration rate: 23 rpm
+Heart rate: 83 bpm
+DATA,TIME,23,83
+Envoi LoRa : R:23,F:83#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 83 bpm
+DATA,TIME,24,83
+Envoi LoRa : R:24,F:83#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 83 bpm
+DATA,TIME,24,83
+Envoi LoRa : R:24,F:83#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 83 bpm
+DATA,TIME,25,83
+Envoi LoRa : R:25,F:83#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 83 bpm
+DATA,TIME,25,83
+Envoi LoRa : R:25,F:83#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 83 bpm
+DATA,TIME,25,83
+Envoi LoRa : R:25,F:83#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 83 bpm
+DATA,TIME,24,83
+Envoi LoRa : R:24,F:83#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 83 bpm
+DATA,TIME,24,83
+Envoi LoRa : R:24,F:83#
+Transmission OK
+
+Respiration rate: 24 rpm
+Heart rate: 83 bpm
+DATA,TIME,24,83
+Envoi LoRa : R:24,F:83#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 83 bpm
+DATA,TIME,25,83
+Envoi LoRa : R:25,F:83#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 83 bpm
+DATA,TIME,25,83
+Envoi LoRa : R:25,F:83#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 83 bpm
+DATA,TIME,25,83
+Envoi LoRa : R:25,F:83#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 83 bpm
+DATA,TIME,25,83
+Envoi LoRa : R:25,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 255 rpm
+Heart rate: 83 bpm
+DATA,TIME,255,83
+Envoi LoRa : R:255,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 83 bpm
+DATA,TIME,26,83
+Envoi LoRa : R:26,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 255 rpm
+Heart rate: 83 bpm
+DATA,TIME,255,83
+Envoi LoRa : R:255,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 27 rpm
+Heart rate: 83 bpm
+DATA,TIME,27,83
+Envoi LoRa : R:27,F:83#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 83 bpm
+DATA,TIME,25,83
+Envoi LoRa : R:25,F:83#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 79 bpm
+DATA,TIME,25,79
+Envoi LoRa : R:25,F:79#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 73 bpm
+DATA,TIME,25,73
+Envoi LoRa : R:25,F:73#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 73 bpm
+DATA,TIME,25,73
+Envoi LoRa : R:25,F:73#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 76 bpm
+DATA,TIME,25,76
+Envoi LoRa : R:25,F:76#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 79 bpm
+DATA,TIME,25,79
+Envoi LoRa : R:25,F:79#
+Transmission OK
+
+Respiration rate: 25 rpm
+Heart rate: 82 bpm
+DATA,TIME,25,82
+Envoi LoRa : R:25,F:82#
+Transmission OK
+
+Respiration rate: 26 rpm
+Heart rate: 82 bpm
+DATA,TIME,26,82
+Envoi LoRa : R:26,F:82#
+Transmission OK
+

@@ -1,0 +1,82 @@
+#include "DFRobot_HumanDetection.h"
+
+DFRobot_HumanDetection hu(&Serial1);
+
+void setup() {
+  Serial.begin(115200);
+  Serial1.begin(115200, SERIAL_8N1, 4, 5);
+
+  Serial.println("Début initialisation");
+  while (hu.begin() != 0) {
+    Serial.println("erreur d'initialisation!!!");
+    delay(1000);
+  }
+  Serial.println("Initialisation réussie");
+
+  Serial.println("Début de mesure");
+  while (hu.configWorkMode(hu.eSleepMode) != 0) {
+    Serial.println("Erreur!!!");
+    delay(1000);
+  }
+  Serial.println("Mesure débutée avec succès");
+
+  Serial.print("Mode actuel: ");
+  switch (hu.getWorkMode()) {
+    case 1:
+      Serial.println("Mode de détection de chute");
+      break;
+    case 2:
+      Serial.println("Mode détection de sommeil");
+      break;
+    default:
+      Serial.println("Erreur de lecture");
+  }
+
+  hu.configLEDLight(hu.eHPLed, 1);
+  hu.sensorRet();
+
+  Serial.print("HP LED status: ");
+  switch (hu.getLEDLightState(hu.eHPLed)) {
+    case 0:
+      Serial.println("Off");
+      break;
+    case 1:
+      Serial.println("On");
+      break;
+    default:
+      Serial.println("Erreur de lecture");
+  }
+
+  Serial.println();
+}
+
+void loop() {
+
+  // Information de mouvement (optionnelle mais utile pour vérifier l'état)
+  Serial.print("Information de mouvement: ");
+  switch (hu.smHumanData(hu.eHumanMovement)) {
+    case 0:
+      Serial.println("Aucun");
+      break;
+    case 1:
+      Serial.println("Immobile");
+      break;
+    case 2:
+      Serial.println("Actif");
+      break;
+    default:
+      Serial.println("Erreur de lecture");
+  }
+
+  // Paramètres physiologiques
+  Serial.print("Respiration rate: ");
+  Serial.print(hu.getBreatheValue());
+  Serial.println(" rpm");
+
+  Serial.print("Heart rate: ");
+  Serial.print(hu.getHeartRate());
+  Serial.println(" bpm");
+
+  Serial.println();
+  delay(1000);
+}
